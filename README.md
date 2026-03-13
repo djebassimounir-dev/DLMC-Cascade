@@ -18,19 +18,18 @@ The framework integrates **baryonic contributions, radial acceleration relations
 ---
 
 ## Files
-This repository now includes the full DLMC Framework for perturbative galactic gravitational flux analysis:
+This repository includes the full DLMC Framework for perturbative galactic gravitational flux analysis:
 
-- `dlmc-fram.ipynb` — Jupyter notebook with step-by-step simulations
-- `dlmc-fram.py.py` — Python scripts for numerical integration and visualization
-- `dlmc-fram.pdf` — PDF version of the report
-- `dlmc-fran-html.html` — HTML version of the report
-- `readme.txt` — Quick usage guide
-- Figures (`output_*.png`) — Simulation results
+- `dlmc-fram.ipynb` — Jupyter notebook with step-by-step simulations  
+- `dlmc-fram.py` — Python scripts for numerical integration and visualization  
+- `dlmc-fram.pdf` — PDF version of the report  
+- `dlmc-fram.html` — HTML version of the report  
+- `readme.txt` — Quick usage guide  
+- Figures (`output_*.png`) — Simulation results  
 
 ---
 
 ## Instructions
-1. Open the notebook `dlmc-fram.ipynb` for step-by-step simulations.  
-2. Install required Python packages:
-   ```bash
-   pip install numpy pandas matplotlib
+1. Open the notebook `dlmc-fram.ipynb` for step-by-step simulations:  
+```bash
+jupyter notebook dlmc-fram.ipynb
