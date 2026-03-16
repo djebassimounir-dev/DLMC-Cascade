@@ -1,13 +1,19 @@
 # DLMC-SPARC, MORPHEUS, Hidden Force & FluxCore Frameworks
 
-This repository hosts four computational frameworks:  
+This repository hosts **four computational frameworks** spanning astrophysics, nonlinear dynamics, and causal field simulations:  
 
-1. **DLMC (Dynamic Local Mass Clustering)** — Analysis of SPARC galaxy rotation curves using FluxCore v5.  
-2. **MORPHEUS** — Reaction-diffusion framework for biological pattern formation.  
-3. **Hidden Force** — Nonlinear scalar field simulations demonstrating a universal α−1/2 scaling law.  
-4. **FluxCore – Grandfather Paradox** — Dynamical causal field simulations resolving the Grandfather Paradox.
+1. **DLMC (Dynamic Local Mass Clustering)** — Analysis of SPARC galaxy rotation curves using **FluxCore v5**, providing robust insight into dark matter distribution and spatial decoupling of baryons.  
+2. **MORPHEUS** — Reaction-diffusion framework for **biological pattern formation**, demonstrating emergent spatial structures from nonlinear chemical interactions.  
+3. **Hidden Force** — Nonlinear **scalar field simulations** revealing a universal α−1/2 scaling law, applicable to both astrophysical and complex dynamical systems.  
+4. **FluxCore – Grandfather Paradox** — **Dynamical causal field simulations** resolving temporal paradoxes, exploring coherent temporal fluxes in spacetime frameworks.
 
-It provides a unified platform bridging **astrophysical field dynamics**, **biological pattern formation**, **nonlinear dissipative systems**, and **temporal coherence in causal fields**.
+Together, these frameworks provide a **unified computational platform** bridging:
+
+- Astrophysical field dynamics (galaxy rotation, DLMC analysis)  
+- Nonlinear dissipative systems (reaction-diffusion, Hidden Force)  
+- Temporal coherence and causality in simulated fields (FluxCore & Grandfather Paradox)  
+
+This repo is intended for researchers, educators, and developers interested in **cross-disciplinary computational modeling**, providing reproducible scripts, notebooks, and datasets.
 
 ---
 
@@ -21,12 +27,3 @@ It provides a unified platform bridging **astrophysical field dynamics**, **biol
 | MORPHEUS v1.0 | [10.5281/zenodo.18998068](https://doi.org/10.5281/zenodo.18998068) |
 | Hidden Force v1.0 | [10.5281/zenodo.18999018](https://doi.org/10.5281/zenodo.18999018) |
 | FluxCore – Grandfather Paradox v1.0 | [10.5281/zenodo.18999740](https://doi.org/10.5281/zenodo.18999740) |
-
----
-
-## Quick Start
-
-### DLMC
-```python
-# Open DLMC notebook
-!jupyter notebook dlmc-fram.ipynb
