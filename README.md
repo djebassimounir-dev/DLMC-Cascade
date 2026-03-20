@@ -1,33 +1,33 @@
-# DLMC-SPARC, MORPHEUS, Hidden Force, FluxCore, Solar Morveu & EDPZ v3 Frameworks
+# DLMC-SPARC, MORPHEUS, Hidden Force, FluxCore & Solar Morveu Frameworks
 
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)
 
-This repository hosts **seven computational frameworks** spanning astrophysics, nonlinear dynamics, and causal field simulations:
+This repository hosts **seven computational frameworks** spanning astrophysics, nonlinear dynamics, and causal field simulations.
 
 ---
 
 ## Frameworks Overview
 
 1. **EDPZ v3 — Gross-Pitaevskii + Dynamical Casimir**  
-   Advanced simulation combining full Gross-Pitaevskii equation, Casimir cavity potentials, topological vortex charge computation, and Dynamical Casimir Effect simulations.
+   Full simulation of Gross-Pitaevskii equation with Casimir potentials, vortex charge computation, and Dynamical Casimir effect.
 
 2. **DLMC (Dynamic Local Mass Clustering)**  
-   Analysis of SPARC galaxy rotation curves using **FluxCore v5**, providing robust insight into dark matter distribution and spatial decoupling of baryons.
+   Galaxy rotation curve analysis using **FluxCore v5**, providing insight into dark matter alternatives and baryon decoupling.
 
 3. **MORPHEUS**  
-   Reaction-diffusion framework for **biological pattern formation**, demonstrating emergent spatial structures from nonlinear chemical interactions.
+   Reaction-diffusion simulations for **biological pattern formation**.
 
 4. **Hidden Force**  
-   Nonlinear **scalar field simulations** revealing a universal α−1/2 scaling law, applicable to both astrophysical and complex dynamical systems.
+   Nonlinear **scalar field simulations**, revealing universal α−1/2 scaling laws.
 
 5. **FluxCore – Grandfather Paradox**  
-   **Dynamical causal field simulations** resolving temporal paradoxes, exploring coherent temporal fluxes in spacetime frameworks.
+   Dynamical causal field simulations resolving temporal paradoxes with coherent spacetime fluxes.
 
 6. **Solar Morveu v1.0.1**  
-   Experimental solar physics framework introducing Kuramoto-Sivashinsky (KS) integration and DLMC-inspired solar cascade modeling.
+   Solar physics framework with Kuramoto-Sivashinsky (KS) integration and DLMC-inspired cascade modeling.
 
 7. **Solar Morveu v1.0.2**  
-   Adaptive torsional framework for Solar Cycle 25 with **Dynamic Phase Adaptation (ADP)** and early warning system for phase instabilities.
+   Adaptive torsional framework for Solar Cycle 25 with **Dynamic Phase Adaptation (ADP)** and early warning for phase instabilities.
 
 These frameworks provide a **unified computational platform bridging**:
 
@@ -54,8 +54,6 @@ These frameworks provide a **unified computational platform bridging**:
 ---
 
 ## Citation
-
-Please cite the corresponding Zenodo DOI for each framework when used in your work.  
 
 Example BibTeX entry for Solar Morveu v1.0.2:
 
