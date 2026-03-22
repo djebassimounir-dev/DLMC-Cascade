@@ -1,72 +1,56 @@
-# DLMC-SPARC, MORPHEUS, Hidden Force, FluxCore, Solar Morveu & LYNA Frameworks
+# 🌌 DLMC-Cascade, MORPHEUS, Hidden Force, Solar Morveu & LYNA v13
 
-![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue.svg)](https://creativecommons.org)
+[![ORCID](https://img.shields.io)](https://orcid.org)
 
-Ce dépôt regroupe **huit frameworks computationnels** couvrant l’astrophysique, la dynamique non-linéaire et la simulation de champs causaux.  
+Ce dépôt regroupe l'ensemble des frameworks de recherche du **Projet LYNA**, couvrant l'astrophysique, la dynamique quantique et la modélisation de flux.
+
+---
+
+## 🚀 Featured: Projet LYNA v13 (LMC-Final)
+**Validation majeure sur 175 galaxies SPARC.**
+Le framework **DLMC-Cascade v13** introduit l'opérateur de **Torsion Métrique Djebassi (T†)** et la transition d'exposant dynamique vers le **Chiffre d'Or 0.578**.
+*   **Performance :** Gain de **5.72%** sur MOND globalement, et jusqu'à **86.9%** sur les naines (ex: UGC07577).
+*   **Constante :** Stabilisation via le **Module 13 ($\Psi=13$ kpc)**.
 
 ---
 
 ## Frameworks Overview
 
 1. **EDPZ v3 — Gross-Pitaevskii + Dynamical Casimir**  
-   Simulation complète de l'équation de Gross-Pitaevskii avec potentiels Casimir, calcul de charge de vortex et effet Casimir Dynamique.
-
-2. **DLMC (Dynamic Local Mass Clustering)**  
-   Analyse des courbes de rotation galactique avec **FluxCore v5**, alternative robuste aux modèles de matière noire et décorrélation baryonique.
-
-3. **DLMC-SPARC / Projet LYNA v5**  
-   Validation complète du framework DLMC-Cascade sur 175 galaxies SPARC, intégrant l’opérateur de Torsion Métrique Djebassi (**T†**) et la Correction Logarithmique de la métrique (LMC). Résolution des singularités métriques et découverte de la Constante de Saturation Ψ = 13.
-
-4. **MORPHEUS**  
-   Simulations réaction-diffusion pour la **formation de motifs biologiques**.
-
-5. **Hidden Force**  
-   Simulations de **champs scalaires non-linéaires**, révélant des lois universelles de type α^−1/2.
-
-6. **FluxCore – Grandfather Paradox**  
-   Simulations de champs causaux dynamiques résolvant les paradoxes temporels avec des flux de l’espace-temps cohérents.
-
-7. **Solar Morveu v1.0.1**  
-   Framework solaire avec intégration Kuramoto-Sivashinsky (KS) et modélisation en cascade inspirée de DLMC.
-
-8. **Solar Morveu v1.0.2**  
-   Framework torsionnel adaptatif pour le Cycle Solaire 25 avec **Dynamic Phase Adaptation (ADP)** et détection précoce d’instabilités de phase.
+   Simulation de condensats et de vortex quantiques avec effets de vide.
+2. **DLMC (Dynamic Local Mass Clustering) v13**  
+   Alternative à la matière noire via la correction log-métrique (LMC).
+3. **Solar Morveu v1.0.2**  
+   Analyse torsionnelle du Cycle Solaire 25 et instabilités de phase.
+4. **FluxCore – Grandfather Paradox**  
+   Résolution de paradoxes temporels par flux de causalité cohérents.
+5. **Hidden Force & MORPHEUS**  
+   Champs scalaires non-linéaires et morphogenèse biologique.
 
 ---
 
-## DOIs & Badges
+## 📑 Official DOIs & Status
 
-| Project | DOI | Badge |
-|---------|-----|-------|
-| EDPZ v3 | [10.5281/zenodo.19081019](https://doi.org/10.5281/zenodo.19081019) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19081019.svg) |
-| FluxCore v5 | [10.5281/zenodo.18843446](https://doi.org/10.5281/zenodo.18843446) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18843446.svg) |
-| DLMC-SPARC | [10.5281/zenodo.18907865](https://doi.org/10.5281/zenodo.18907865) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18907865.svg) |
-| DLMC Framework | [10.5281/zenodo.18997307](https://doi.org/10.5281/zenodo.18997307) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18997307.svg) |
-| MORPHEUS v1.0 | [10.5281/zenodo.18998068](https://doi.org/10.5281/zenodo.18998068) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18998068.svg) |
-| Hidden Force v1.0 | [10.5281/zenodo.18999018](https://doi.org/10.5281/zenodo.18999018) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18999018.svg) |
-| FluxCore – Grandfather Paradox v1.0 | [10.5281/zenodo.18999740](https://doi.org/10.5281/zenodo.18999740) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18999740.svg) |
-| Solar Morveu v1.0.1 | [10.5281/zenodo.19041573](https://doi.org/10.5281/zenodo.19041573) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19041573.svg) |
-| Solar Morveu v1.0.2 | [10.5281/zenodo.19080481](https://doi.org/10.5281/zenodo.19080481) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19080481.svg) |
-| DLMC-SPARC / Projet LYNA v5 | [10.5281/zenodo.19121689](https://doi.org/10.5281/zenodo.19121689) | ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19121689.svg) |
+
+| Project | Version | DOI | Status |
+| :--- | :---: | :--- | :---: |
+| **Projet LYNA (SPARC)** | **v13.0** | [**10.5281/zenodo.19170647**](https://doi.org) | ✅ **Stable** |
+| EDPZ v3 | v3.0 | [10.5281/zenodo.19081019](https://doi.org/10.5281/zenodo.19081019) | ✅ Active |
+| Solar Morveu | v1.0.2 | [10.5281/zenodo.19080481](https://doi.org/10.5281/zenodo.19080481) | ✅ Active |
+| FluxCore v5 | v5.0 | [10.5281/zenodo.18843446](https://doi.org/10.5281/zenodo.18843446) | 🔄 Legacy |
 
 ---
-@software{solar_morveu_v102_2026,
-  author = {Djebassi, Mounir},
-  title = {Solar Morveu v1.0.2: Adaptive Torsional Framework for Solar Cycle 25 and Early Warning of Phase Instabilities},
-  year = {2026},
-  doi = {10.5281/zenodo.19080481},
-  url = {https://doi.org/10.5281/zenodo.19080481}
-}
 
-## Citation Examples (BibTeX)
+## 📚 Citation (BibTeX)
 
-**Projet LYNA / DLMC-Cascade v5**  
+Si vous utilisez le framework **v13** dans vos travaux :
 
 ```bibtex
-@software{lyna_dlmc_v5_2026,
+@software{lyna_v13_2026,
   author = {Djebassi, Mounir},
-  title = {Projet LYNA — DLMC-Cascade Framework v5: Validation sur SPARC Galaxies},
+  title = {DLMC-Cascade Framework v13: Unified Metric Torsion Analysis on 175 SPARC Galaxies},
   year = {2026},
-  doi = {10.5281/zenodo.19121689},
-  url = {https://doi.org/10.5281/zenodo.19121689}
+  doi = {10.5281/zenodo.19170647},
+  url = {https://doi.org}
 }
