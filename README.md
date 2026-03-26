@@ -1,13 +1,20 @@
-# 🌌 DLMC-Cascade, MORPHEUS, Hidden Force, Solar Morveu & LYNA v13
+# 🌌 PROJECT G.A.I.A. & DLMC-Cascade Ecosystem
+### MORPHEUS, Hidden Force, Solar Morveu & LYNA v13
 
 [![License](https://img.shields.io)](https://creativecommons.org)
 [![DOI](https://zenodo.org)](https://doi.org)
 
-This repository hosts the research frameworks of **Project LYNA**, spanning astrophysics, quantum dynamics, and flux modeling.
+This repository hosts the **PROJECT G.A.I.A.** core and the research frameworks of **Project LYNA**, spanning astrophysics, quantum dynamics, and flux modeling.
 
 ---
 
-## 🚀 Featured: Project LYNA v13 (LMC-Final)
+## 🤖 Featured: PROJECT G.A.I.A.
+**Global Artificial Intelligence Assistant**  
+G.A.I.A. acts as the central analytical engine for processing complex astrophysical data. It integrates the various frameworks below to automate the validation of metric torsion models and log-metric corrections.
+
+---
+
+## 🚀 Scientific Breakthrough: Project LYNA v13 (LMC-Final)
 **Major validation conducted on 175 SPARC galaxies.**  
 The **DLMC-Cascade v13** framework introduces the **Djebassi Metric Torsion ($T^\dagger$)** operator and the dynamic exponent transition towards the **Golden Ratio 0.578**.
 
@@ -18,15 +25,17 @@ The **DLMC-Cascade v13** framework introduces the **Djebassi Metric Torsion ($T^
 
 ## 🛠️ Frameworks Overview
 
-1.  **EDPZ v3 — Gross-Pitaevskii + Dynamical Casimir**  
+1.  **G.A.I.A. Core**  
+    AI-driven automation for multi-framework synchronization and data visualization.
+2.  **EDPZ v3 — Gross-Pitaevskii + Dynamical Casimir**  
     Simulation of condensates and quantum vortices with vacuum effects.
-2.  **DLMC (Dynamic Local Mass Clustering) v13**  
+3.  **DLMC (Dynamic Local Mass Clustering) v13**  
     An alternative to Dark Matter via Log-Metric Correction (LMC).
-3.  **Solar Morveu v1.0.2**  
+4.  **Solar Morveu v1.0.2**  
     Torsional analysis of Solar Cycle 25 and phase instabilities.
-4.  **FluxCore – Grandfather Paradox**  
+5.  **FluxCore – Grandfather Paradox**  
     Resolution of temporal paradoxes through coherent causality flows.
-5.  **Hidden Force & MORPHEUS**  
+6.  **Hidden Force & MORPHEUS**  
     Non-linear scalar fields and biological morphogenesis.
 
 ---
@@ -45,12 +54,12 @@ The **DLMC-Cascade v13** framework introduces the **Djebassi Metric Torsion ($T^
 
 ## 📚 Citation (BibTeX)
 
-If you use the **v13** framework in your research, please cite it as follows:
+If you use the **v13** framework or **G.A.I.A.** components in your research:
 
 ```bibtex
 @software{lyna_v13_2026,
   author = {Djebassi, Mounir},
-  title = {DLMC-Cascade Framework v13: Unified Metric Torsion Analysis on 175 SPARC Galaxies},
+  title = {DLMC-Cascade Framework v13 & Project G.A.I.A: Unified Metric Torsion Analysis},
   year = {2026},
   publisher = {Zenodo},
   version = {v13.0},
