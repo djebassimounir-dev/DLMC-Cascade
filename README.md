@@ -6,7 +6,7 @@
 
 This repository hosts the **PROJECT G.A.I.A.** core and the research frameworks of **Project LYNA**, spanning astrophysics, quantum dynamics, and flux modeling.
 
----
+----
 
 ## 🤖 Featured: PROJECT G.A.I.A.
 **Global Artificial Intelligence Assistant**  
