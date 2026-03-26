@@ -3,10 +3,11 @@
 
 [![License](https://img.shields.io)](https://creativecommons.org)
 [![DOI](https://zenodo.org)](https://doi.org)
+[![Google Scholar](https://img.shields.io)](https://scholar.google.com)
 
 This repository hosts the **PROJECT G.A.I.A.** core and the research frameworks of **Project LYNA**, spanning astrophysics, quantum dynamics, and flux modeling.
 
-----
+---
 
 ## 🤖 Featured: PROJECT G.A.I.A.
 **Global Artificial Intelligence Assistant**  
@@ -63,6 +64,6 @@ If you use the **v13** framework or **G.A.I.A.** components in your research:
   year = {2026},
   publisher = {Zenodo},
   version = {v13.0},
-  doi = {10.5281/zenodo.19170647},
+  doi = {10.5281/zenodo.19081282},
   url = {https://doi.org}
 }
