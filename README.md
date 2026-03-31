@@ -1,5 +1,8 @@
+[![DOI Code](https://zenodo.org)](https://doi.org)
+[![DOI Manuscript](https://shields.io)](https://doi.org)
+
 # 🌀 PROJECT LYNA: Unified Torsional Fluid Dynamics Ecosystem
-**Author:** Mounir Djebassi (ORCID: 0009-0009-6871-7693)
+**Author:** Mounir Djebassi (ORCID: [0009-0009-6871-7693](https://orcid.org))
 **Frameworks:** DLMC v16.4 (Lyna-Superfluid) & DLMC-MAG v14.0.2 (Solar Morveu)
 
 ---
@@ -24,6 +27,7 @@ Computational framework (**DLMC-MAG v14.0.2**) for solar-terrestrial magnetosphe
 
 ### 📂 Solar Morveu Files & Integrity
 
+
 | File Name | Size | MD5 Hash |
 | :--- | :--- | :--- |
 | **DLMC_MAG_Final_Report.txt** | 1.2 kB | `aeb7fea6d0a16b5e0c5504e16e90cae5` |
@@ -39,9 +43,10 @@ Computational framework (**DLMC-MAG v14.0.2**) for solar-terrestrial magnetosphe
 
 ## 🛠 Technical Details & Metadata
 *   **Programming Language:** Python
-*   **Development Status:** Active / Published
+*   **Development Status:** Published / Registered
+*   **Archiving:** Automated GitHub-Zenodo preservation enabled.
 *   **Keywords:** Magnetosphere, Solar Wind, Metric Torsion, Superfluid Vacuum, Astrophysics, SPARC, Dark Matter Alternative.
 *   **License:** Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 ## 🎓 Citation (APA Style)
-Djebassi, M. (2026). *Unified Torsional Fluid Dynamics Ecosystem (DLMC v16.4 & Solar Morveu v1.1.0)*. Zenodo. DOI: 10.5281/zenodo.19355993 / 10.5281/zenodo.19298939
+Djebassi, M. (2026). *Unified Torsional Fluid Dynamics Ecosystem (DLMC v16.4 & Solar Morveu v1.1.0)*. Zenodo. DOI: 10.5281/zenodo.19355993 / 10.5281/zenodo.19356466
