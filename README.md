@@ -17,9 +17,10 @@ This repository gathers the complete computational frameworks, notebook simulati
 ---
 
 ## ☀️ 2. Project Solar Morveu v1.1.0: Unified Torsional Fluid Dynamics Framework
-* **Zenodo DOI:** 10.5281/ZENODO.19298939 | **Date:** March 28, 2026
+* **Zenodo DOI:** [![DOI](https://zenodo.org)](https://doi.org) | **Date:** May 28, 2026
 * *Abstract:* A computational model of solar-terrestrial interactions based on DLMC-MAG and Kuramoto-Sivashinsky dynamics.
 * **Associated Repository Files:**
+  * `Solar-Morveu_v1.0.3_Mise_a_jour.zip` (Latest clean HTML update without scripts)
   * `Solar-Morveu_v1.0.2_COMPLET.ipynb.ipynb` (Main framework notebook)
   * `script.solar-morveu-v1.0.2.py.py` (Automation script)
   * `Solar-Morveu_v1.0.2_COMPLET.pdf` & `html-morveu-solar.html` (Formatted data reports)
