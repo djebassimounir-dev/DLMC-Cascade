@@ -42,16 +42,16 @@ This repository gathers the complete computational frameworks, notebook simulati
 *This section aggregates the multi-stage historical development of the core Torsional Fluid Dynamics matrix solutions validated on the 175 SPARC galaxies.*
 
 * **Project G.A.I.A. Φ: The Unified Torsion Matrix Solution (v14.0.2)**
-  * *Zenodo DOI:* 10.5281/ZENODO.19269184 | *Date:* March 28, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19269184 | *Date:** March 28, 2026
   * *Files:* `PROJECT G.A.I.A.ipynb.ipynb`, `PROJECT G.A.I.A.script.py`, `project-g.a.i.a.ipynb.ipynb`, `project-g.a.i.a.webpdf.pdf`, `project-g.a.i.a.html.html`
 * **{LumenCode}: Unified Metric Torsion Solution (v14.0.2)**
-  * *Zenodo DOI:* 10.5281/ZENODO.19293393 | *Date:* March 28, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19293393 | *Date:** March 28, 2026
   * *Files:* `lumencode.zip.zip`, `projet-lyna-v14.0.2.ipynb`, `projet-lyna.v14.0.2.ipynb.ipynb`, `projet-lyna-v14.0.2.pdf`, `projet-lyna-v14.0.2.html`, `projet-lyna-v.14.0.2.script.py`
 * **DLMC FluxCore & Projet LYNA Framework (v5)**
-  * *Zenodo DOI:* 10.5281/ZENODO.19121325 & 10.5281/ZENODO.19121689 | *Date:* March 20, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19121325 & 10.5281/ZENODO.19121689 | *Date:** March 20, 2026
   * *Files:* `lyna_final.zip`, `lyna_final.ipynb`, `lyna_final.py`, `lyna_final.pdf`, `lyna_final.html`, `lyna_modular.ipynb.ipynb`, `lyna_modular.py.py`, `lyna_modular.pdf`, `lyna_modular.ipynb.html`
 * **DLMC-Cascade Framework v13: Unified Metric Torsion Analysis**
-  * *Zenodo DOI:* 10.5281/ZENODO.19170647 | *Date:* March 22, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19170647 | *Date:** March 22, 2026
   * *Files:* `lynav13-.ipynb.ipynb`, `lynav13-script.py.py`, `lynav13-pdf.pdf`, `lynav13-.html.html`
 
 ---
@@ -59,27 +59,27 @@ This repository gathers the complete computational frameworks, notebook simulati
 ## ⚙️ 5. Specialized Physical Simulation Sub-Modules
 
 * **EDPZ v3: Gross-Pitaevskii + Casimir Dynamique avec vortex quantique**
-  * *Zenodo DOI:* 10.5281/ZENODO.19081019 | *Date:* March 18, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19081019 | *Date:** March 18, 2026
   * *Files:* `edpz-v3.0.0.ipynb.ipynb`, `script-edpzv3.0.0.py.py`, `edpz-v3.0.0.pdf`, `Rapport_Final_Project_Lyna_EDPZ_v3.html`
 * **THE SOLAR MORVEU — DLMC-KS Project LYNA — Paper III**
-  * *Zenodo DOI:* 10.5281/ZENODO.19041573 | *Date:* March 16, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.19041573 | *Date:** March 16, 2026
 * **Hidden Force: Universal Scaling Law in a Nonlinear Dissipative Scalar Field**
-  * *Zenodo DOI:* 10.5281/ZENODO.18999018 | *Date:* March 13, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.18999018 | *Date:** March 13, 2026
   * *Files:* `hydden_force.ipynb`, `hydden-force-script.py`, `pdf-hidden-force.pdf`, `hidden force.html.html`
 * **FluxCore: Grandfather Paradox Resolution — A Dynamical Framework**
-  * *Zenodo DOI:* 10.5281/ZENODO.18999740 | *Date:* March 13, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.18999740 | *Date:** March 13, 2026
   * *Files:* `grandfather-paradone.ipynb.ipynb`, `script-grandfather-paradone.py`, `pdf-grandfather-paradoxe.pdf`, `html-grandfather-paradone.html`
 * **MORPHEUS: A Universal Reaction-Diffusion Framework**
-  * *Zenodo DOI:* 10.5281/ZENODO.18998068 | *Date:* March 13, 2026
+  * *Zenodo DOI:* 10.5281/ZENODO.18998068 | *Date:** March 13, 2026
   * *Files:* `morpheus.ipynb.ipynb`, `morpheus-script.py`, `morpheus.pdf`, `morpheus-html.html`
 
 ---
 
-## 🌊 6. Nonlinear Hydrodynamic Regularization Framework
+## 🌊 12. Nonlinear Hydrodynamic Regularization Framework
 * **Zenodo DOI:** 10.5281/zenodo.20530151 | **Date:** June 3, 2026
 * *Abstract:* An exploratory framework introducing a geometric stabilization operator to moderate nonlinear amplification in incompressible hydrodynamic equations.
 * **Associated Repository Files:**
-  * `nonlinear_hydrodynamic_systems.zip` (Contains `.ipynb` notebook, clean `.html` report, and research note `.pdf`)
+  * `12_Project_Hydrodynamics/nonlinear_hydrodynamic_systems.zip` (Contains `.ipynb` notebook, clean `.html` report, and research note `.pdf`)
 
 ---
 
