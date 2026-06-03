@@ -75,6 +75,14 @@ This repository gathers the complete computational frameworks, notebook simulati
 
 ---
 
+## 🌊 6. Nonlinear Hydrodynamic Regularization Framework
+* **Zenodo DOI:** 10.5281/zenodo.20530151 | **Date:** June 3, 2026
+* *Abstract:* An exploratory framework introducing a geometric stabilization operator to moderate nonlinear amplification in incompressible hydrodynamic equations.
+* **Associated Repository Files:**
+  * `nonlinear_hydrodynamic_systems.zip` (Contains `.ipynb` notebook, clean `.html` report, and research note `.pdf`)
+
+---
+
 ## 🛠 Technical Overview
 - **Language:** Python
 - **Status:** Published research ecosystem
