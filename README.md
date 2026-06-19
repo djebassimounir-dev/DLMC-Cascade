@@ -76,6 +76,8 @@ This repository gathers the complete computational frameworks, notebook simulati
 ---
 
 ## 🛡️ 13. Project Lynacore: Casimir-Regularized Non-Linear Regime
+* **Zenodo DOI:** 10.5281/zenodo.20764538 | **Date:** June 19, 2026
+* *Abstract:* This computational framework formalizes the structural integration of the {Lynacore} system, stabilizing the non-linear regime via a geometric Casimir-type regularization operator within the unified torsional fluid dynamics ecosystem.
 * **Associated Repository Files:**
   * `lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip` (Core framework compression package)
 
@@ -95,6 +97,25 @@ This repository gathers the complete computational frameworks, notebook simulati
 - **Archiving:** GitHub + Zenodo integration
 - **License:** CC-BY-4.0
 - **Ecosystem Core Scripts:** `.gitignore`, `LICENSE`, `README.md`, `readme.md`, `readme.txt`, `Rapport_Final_Sans_Code.html`
+
+---
+
+## 📊 Master Ecosystem DOIs & Verification Badges
+
+| Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
+| :--- | :--- | :--- |
+| **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://doi.org) |
+| **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://doi.org) |
+| **VacuumCode Substrate** | `10.5281/zenodo.19508456` | [🔗 View on Zenodo](https://doi.org) |
+| **DLMC Vacuum v16.4** | `10.5281/zenodo.19355993` | [🔗 View on Zenodo](https://doi.org) |
+| **LumenCode Solution** | `10.5281/zenodo.19293393` | [🔗 View on Zenodo](https://doi.org) |
+| **Project G.A.I.A. Φ** | `10.5281/zenodo.19269184` | [🔗 View on Zenodo](https://doi.org) |
+| **DLMC-Cascade v13** | `10.5281/zenodo.19170647` | [🔗 View on Zenodo](https://doi.org) |
+| **DLMC FluxCore (v5)** | `10.5281/zenodo.19121325` | [🔗 View on Zenodo](https://doi.org) |
+| **EDPZ v3 (Superfluid)** | `10.5281/zenodo.19081019` | [🔗 View on Zenodo](https://doi.org) |
+| **Solar Morveu Framework** | `10.5281/zenodo.19080481` | [🔗 View on Zenodo](https://doi.org) |
+| **MORPHEUS v1.0** | `10.5281/zenodo.18998068` | [🔗 View on Zenodo](https://doi.org) |
+| **Hidden Force Field** | `10.5281/zenodo.18999018` | [🔗 View on Zenodo](https://doi.org) |
 
 ---
 
