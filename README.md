@@ -33,7 +33,7 @@ This repository gathers the complete computational frameworks, notebook simulati
 ## 🧠 3. VacuumCode: A Discrete Quantum Vacuum Substrate for Galactic Dynamics
 * **Zenodo DOI:** 10.5281/ZENODO.19508456 | **Date:** April 11, 2026
 * *Abstract:* A unified computational framework describing galactic rotation curves as emergent properties of a structured quantum vacuum substrate without dark matter.
-* **Associated Repository Files:**
+* **Associated Repository Files:** 
   * `vacuumcode.zip` (Pre-packaged codebase release)
 
 ---
@@ -75,7 +75,7 @@ This repository gathers the complete computational frameworks, notebook simulati
 
 ---
 
-## 🛡️ 11. Lynacore: Casimir-Regularized Non-Linear Regime
+## 🛡️ 13. Project Lynacore: Casimir-Regularized Non-Linear Regime
 * **Associated Repository Files:**
   * `lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip` (Core framework compression package)
 
