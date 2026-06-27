@@ -1,3 +1,16 @@
+# 🌀 PROJECT LYNA LEGACY: Unified Torsional Fluid Dynamics Ecosystem
+
+**Author:** Mounir Djebassi (ORCID: 0009-0009-6871-7693)
+
+This repository gathers the complete computational frameworks, notebook simulations, and interactive HTML reports for the unified research program in torsional vacuum-based astrophysical modeling. Each module mapped below corresponds directly to an independent publication validated on ORCID and Zenodo.
+
+---
+
+## 🌌 1. DLMC v16.4: Torsional Vacuum Dynamics & Galactic Rotation Curves
+* **Zenodo DOI:** 10.5281/ZENODO.19355993 | **Date:** March 31, 2026
+* *Abstract:* A computational framework applied to galaxy rotation curves (SPARC dataset) using a torsion-based vacuum formulation.
+
+
 # 🌀 PROJECT LYNA: Unified Torsional Fluid Dynamics Ecosystem
 
 **Author:** Mounir Djebassi (ORCID: 0009-0009-6871-7693)
