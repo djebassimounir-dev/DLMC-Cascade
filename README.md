@@ -83,6 +83,20 @@ This repository gathers the complete computational frameworks, notebook simulati
 
 ---
 
+## 📂 13. Project Lyna Legacy: Research Framework & Analytical Reports
+* **Zenodo DOI:** *En attente d'attribution* | **Date:** Juin 2026
+* *Abstract:* Complete framework documentation, notebook simulations, and analytical validation figures for the Lyna Legacy torsional research matrix.
+* **Associated Repository Files:**
+  * `13_Project_Lyna_Legacy/lyna_legacy.ipynb` (Main framework notebook)
+  * `13_Project_Lyna_Legacy/lyna_legacy.pdf` & `lyna_legacy.zip` (Analytical reports and package release)
+  * `13_Project_Lyna_Legacy/lyna_legacy-supplementary_table.pdf` (Data overview sheets)
+  * `13_Project_Lyna_Legacy/figure1_rotation_curves.pdf` (Galactic curves visualization)
+  * `13_Project_Lyna_Legacy/figure2_rar_scatter.pdf` (RAR scatter analytics)
+  * `13_Project_Lyna_Legacy/figure3_model_comparison.pdf` (Model performance comparison)
+  * `13_Project_Lyna_Legacy/figure4_validation.pdf` (Structural dataset validation)
+
+---
+
 ## 🌊 12. Nonlinear Hydrodynamic Regularization Framework
 * **Zenodo DOI:** 10.5281/zenodo.20530151 | **Date:** June 3, 2026
 * *Abstract:* An exploratory framework introducing a geometric stabilization operator to moderate nonlinear amplification in incompressible hydrodynamic equations.
@@ -105,6 +119,7 @@ This repository gathers the complete computational frameworks, notebook simulati
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
 | **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://doi.org) |
+| **Lyna Legacy Framework** | *En attente* | [🔗 View on Zenodo](https://doi.org) |
 | **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://doi.org) |
 | **VacuumCode Substrate** | `10.5281/zenodo.19508456` | [🔗 View on Zenodo](https://doi.org) |
 | **DLMC Vacuum v16.4** | `10.5281/zenodo.19355993` | [🔗 View on Zenodo](https://doi.org) |
