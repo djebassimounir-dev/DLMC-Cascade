@@ -40,16 +40,8 @@ This section aggregates the multi-stage historical development of the core Torsi
 ## ⚙️ 5. Specialized Physical Simulation Sub-Modules
 * **EDPZ v3:** Gross-Pitaevskii + Casimir Dynamique avec vortex quantique | Zenodo DOI: `10.5281/ZENODO.19081019` (March 18, 2026)
 * **The Solar Morveu (Paper III):** Zenodo DOI: `10.5281/ZENODO.19041573` (March 16, 2026)
-* **Hidden Force:** Universal Scaling Law in a Nonlinear Dissipative Scalar Field | Zenodo DOI: `10.5281/ZENODO.18999018` (March 13, 2026)
 * **FluxCore:** Grandfather Paradox Resolution — A Dynamical Framework | Zenodo DOI: `10.5281/ZENODO.18999740` (March 13, 2026)
 * **MORPHEUS:** A Universal Reaction-Diffusion Framework | Zenodo DOI: `10.5281/ZENODO.18998068` (March 13, 2026)
-
----
-
-## 🛡️ 13. Project Lynacore: Casimir-Regularized Non-Linear Regime
-* **Zenodo DOI:** 10.5281/zenodo.20764538 | **Date:** June 19, 2026
-* *Abstract:* Formalizes the structural integration of the Lynacore system, stabilizing the non-linear regime via a geometric Casimir-type regularization operator.
-* **Associated Repository Files:** `lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip`
 
 ---
 
@@ -60,10 +52,24 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
+## 🛡️ 13. Project Lynacore: Casimir-Regularized Non-Linear Regime
+* **Zenodo DOI:** 10.5281/zenodo.20764538 | **Date:** June 19, 2026
+* *Abstract:* Formalizes the structural integration of the Lynacore system, stabilizing the non-linear regime via a geometric Casimir-type regularization operator.
+* **Associated Repository Files:** `lynacore/CASIMIR-REGULARIZED NON-LINEAR REGIME.zip`
+
+---
+
 ## 🌌 14. AURA-KAMAR: An Exploratory Texture-Based Classification Pipeline for SPARC Galaxy Profiles
 * **Zenodo DOI:** 10.5281/zenodo.22086061 | **Date:** August 24, 2026
 * *Abstract:* An exploratory texture-based classification pipeline applied to galaxy rotation curves from the SPARC database, featuring t-SNE analysis and family-based kinematic modeling for full scientific reproducibility.
 * **Associated Repository Files:** `14_Project_Aura_Kamar/AURA-KAMAR.zip` (Complete computational package release)
+
+---
+
+## ⚡ 15. Hidden Force: Universal Scaling Law in a Nonlinear Dissipative Scalar Field
+* **Zenodo DOI:** 10.5281/zenodo.22094172 | **Date:** August 25, 2026
+* *Abstract:* Establishes a universal scaling law within a nonlinear dissipative scalar field, integrated into the unified torsional fluid dynamics ecosystem.
+* **Associated Repository Files:** `15_Project_Hidden_Force/hydden force.zip`
 
 ---
 
@@ -79,6 +85,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://zenodo.org/records/22094172) |
 | **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://zenodo.org/records/22086061) |
 | **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://zenodo.org/records/20764538) |
 | **Nonlinear Hydrodynamics** | `10.5281/zenodo.20530151` | [🔗 View on Zenodo](https://zenodo.org/records/20530151) |
@@ -91,7 +98,6 @@ This section aggregates the multi-stage historical development of the core Torsi
 | **EDPZ v3 (Superfluid)** | `10.5281/zenodo.19081019` | [🔗 View on Zenodo](https://zenodo.org/records/19081019) |
 | **Solar Morveu Framework** | `10.5281/zenodo.19080481` | [🔗 View on Zenodo](https://zenodo.org/records/19080481) |
 | **MORPHEUS v1.0** | `10.5281/zenodo.18998068` | [🔗 View on Zenodo](https://zenodo.org/records/18998068) |
-| **Hidden Force Field** | `10.5281/zenodo.18999018` | [🔗 View on Zenodo](https://zenodo.org/records/18999018) |
 
 ---
 *🎓 **Master Ecosystem Citation:** Djebassi, M. (2026). Unified torsional fluid dynamics ecosystem. Zenodo. DOI: [10.5281/zenodo.19508893](https://doi.org/10.5281/zenodo.19508893)*
