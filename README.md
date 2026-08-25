@@ -73,6 +73,13 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
+## ⏳ 16. The Paradoxe: A Dynamic Local-Multiple Coherence Framework for Resolving Physical, Relativistic, and Temporal Paradoxes
+* **Zenodo DOI:** 10.5281/zenodo.22095094 | **Date:** August 25, 2026
+* *Abstract:* Introduces the Dynamic Local-Multiple Coherence (DLMC) framework, a multi-scale phenomenological model designed to formalize and resolve classic physical, relativistic, temporal, and consciousness-related paradoxes through non-linear numerical simulations.
+* **Associated Repository Files:** `16_The_Paradoxe/the paradoxe.zip`
+
+---
+
 ## 🛠 Technical Overview
 * **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 * **Status:** Published research ecosystem
@@ -85,6 +92,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://zenodo.org/records/22095094) |
 | **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://zenodo.org/records/22094172) |
 | **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://zenodo.org/records/22086061) |
 | **Lynacore (v1.5.0)** | `10.5281/zenodo.20764538` | [🔗 View on Zenodo](https://zenodo.org/records/20764538) |
