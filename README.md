@@ -80,6 +80,13 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 ---
 
+## 🌀 17. Lyna-Torsion: An Exploratory Heuristic Coupling Between Geometric Torsion, the Fine-Structure Constant, and Hydrodynamic Dissipation in Turbulent Stellar Media
+* **Zenodo DOI:** 10.5281/zenodo.22118564 | **Date:** August 27, 2026
+* *Abstract:* Introduces the Lyna-Torsion ($\Psi_L$) construction: a heuristic, non-linear recurrence relation coupling a geometric torsion path integral, the fine-structure constant ($\alpha$), and a bounded dissipation term, evaluated on a sample of Gaia astrometric sources with full parameter sensitivity analysis.
+* **Associated Repository Files:** `17_Lyna-Torsion/lyna-torsion.zip`
+
+---
+
 ## 🛠 Technical Overview
 * **Language:** Python, Jupyter Notebooks, HTML/LaTeX
 * **Status:** Published research ecosystem
@@ -92,6 +99,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 
 | Computational Module | Registered Digital Object Identifier (DOI) | Official Verification Link |
 | :--- | :--- | :--- |
+| **Lyna-Torsion Framework** | `10.5281/zenodo.22118564` | [🔗 View on Zenodo](https://zenodo.org/records/22118564) |
 | **The Paradoxe Framework** | `10.5281/zenodo.22095094` | [🔗 View on Zenodo](https://zenodo.org/records/22095094) |
 | **Hidden Force Field** | `10.5281/zenodo.22094172` | [🔗 View on Zenodo](https://zenodo.org/records/22094172) |
 | **AURA-KAMAR Pipeline** | `10.5281/zenodo.22086061` | [🔗 View on Zenodo](https://zenodo.org/records/22086061) |
