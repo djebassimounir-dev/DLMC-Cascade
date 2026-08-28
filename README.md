@@ -83,7 +83,7 @@ This section aggregates the multi-stage historical development of the core Torsi
 ## 🌀 17. Lyna-Torsion: An Exploratory Heuristic Coupling Between Geometric Torsion, the Fine-Structure Constant, and Hydrodynamic Dissipation in Turbulent Stellar Media
 * **Zenodo DOI:** 10.5281/zenodo.22118564 | **Date:** August 27, 2026
 * *Abstract:* Introduces the Lyna-Torsion ($\Psi_L$) construction: a heuristic, non-linear recurrence relation coupling a geometric torsion path integral, the fine-structure constant ($\alpha$), and a bounded dissipation term, evaluated on a sample of Gaia astrometric sources with full parameter sensitivity analysis.
-* **Associated Repository Files:** `17_Lyna-Torsion/lyna-torsion.zip`
+* **Associated Repository Files:** `17_Lyna-Torsion/lyna-torsion.zip`, `17_Lyna-Torsion/Lyna-Legacy-Bundle.zip` *(Includes main preprint PDF and revised reserve notes analyzing shear-thickening regularization)*
 
 ---
 
